@@ -2,6 +2,7 @@
 
 <h2>🔖 Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+<a>https://numero-secreto-psi-blush.vercel.app/</a>
 
 ## 🚀 Tecnologias
 <div>
